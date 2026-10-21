@@ -4,5 +4,5 @@ Here are the IDE extensions made by me or my organization @miyamar or I use dail
 
 | Extension | Link |
 |-----------|------|
-| Hevana Theme | https://open-vsx.org/extension/hevanaco/hevana-theme |
+| Miyamar Theme | https://open-vsx.org/extension/miyamar/miyamar-theme |
 | React Template Literal Formatter | https://open-vsx.org/extension/TheHasnainIzhar/react-template-literal-formatter |
